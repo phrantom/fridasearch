@@ -1,4 +1,4 @@
-# Fridasearch
+# Frida CodeShare Search
 
 
 ![image](https://github.com/phrantom/fridasearch/assets/52974841/c8094f13-9939-4602-8517-1aec2058404f)
